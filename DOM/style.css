@@ -9,6 +9,8 @@ button{
 li{
     list-style: none;
 }
-
+.text{
+    color: rgba(0, 128, 0, 0.714);
+}
 
 
