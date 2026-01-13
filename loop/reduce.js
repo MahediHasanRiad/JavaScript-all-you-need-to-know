@@ -40,3 +40,5 @@ const characterValue = totalCharacter.reduce((acc, cur) => {
 
 // console.log(characterValue)
 
+/**  */
+
