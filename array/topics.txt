@@ -1,0 +1,21 @@
+Array Operation:
+    - imperative traverse
+    - Declarative traverse 
+    - Update 
+    - Delete 
+    - Mutation 
+    - Map 
+    - Filter 
+    - Reduce 
+    - Deep copy vs Shallow copy 
+
+Object Deep Dive 
+    - Object Operation 
+    - Function vs Method 
+    - Brief Discussion on Prototype 
+
+object as a Data Structure 
+    - Array Operation 
+    - Object over Array 
+
+Multi Dimentional Array 
