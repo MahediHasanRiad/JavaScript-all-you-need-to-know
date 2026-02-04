@@ -1,5 +1,5 @@
 /** 
- *  getter = you can or read
+ *  getter = you can read
  *  setter = you can also change value
  */
 
@@ -28,7 +28,7 @@ class Person{
 const p1 = new Person('riad', 'riad@gmail.com')
 // p1.info()
 
-// getter
+// getter (access as a property, not function)
 p1.name = 'change name'
 p1.info()
 
