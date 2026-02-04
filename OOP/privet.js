@@ -2,6 +2,7 @@
  * variable define out of the class
  * privet property => const _name = Symbol('description')
  * key define => { this[_name] = name } not { this._name = name }
+ * this privet variable cannot access out of the file
  */
 
 // privet property
@@ -24,3 +25,4 @@ class Privet{
 
 const p = new Privet('riad', '26', '01856489756')
 p.info()
+p.n
